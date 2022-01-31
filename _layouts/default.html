@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;o,500;0,600;1,600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <!-- logo and navigation -->
+        <img src="images/logo.png" alt="Faith of a Noob logo" class="navbarlogo">
+        <ul class="links-container">
+            <li class="link-item"> <a href="/index.html" class="link">Home</a></li>
+            <li class="link-item"> <a href="/cat.html" class="link">Categories</a></li>
+            <li class="link-item"> <a href="/about.html" class="link">About</a></li>
+        </ul>
+    </nav>
+    <header class="header">
+        <!-- page title -->
+        <div class="content">
+            <h1 class="heading">
+                <span class="small">welcome to</span>
+                <!-- Faith of a Noob -->
+                <span class="no-fill">Faith of a Noob</span>
+            </h1>
+            <!-- <a href="cat.html" class="btn">Categories</a> -->
+        </div>
+    </header>
+    {{ content }}
+    <footer>
+        &copy; 2022 Faith of a Noob
+    </footer>
+</body>
+
+</html>
