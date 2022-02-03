@@ -1,0 +1,73 @@
+---
+title: "Installing Jekyll"
+categories:
+- Jekyll
+tags:
+- Github
+- Jekyll
+- Hosting
+- Guide
+- Blogging
+- Ruby
+- RubyGems
+---
+
+<p>This is my guide on how to install Jekyll to use with <a href="/_posts/2022-01-31-githubpages.html">Github Pages</a>.
+</p>
+
+<p>I am going to go over how to do this in linux command line with links to the download files as well. All info can be
+    found at <a href="https://jekyllrb.com">jekyllrb.com</a>. First we have to install some prerequsites.</p>
+
+<h2>Install Ruby</h2>
+
+<ol>
+    <li>Download Ruby <a href="https://www.ruby-lang.org/en/downloads/">here</a> or in linux command line: <p>
+            <code>$ sudo apt-get install ruby-full build-essential zlib1g-dev</code>
+        </p>
+    </li>
+    <li>Verify you have the latest version with: <p><code>$ ruby -v</code></p>
+    </li>
+</ol>
+
+<h2>RubyGems</h2>
+
+<p>If you installed Ruby with the command line instructions above, you may skip this step.</p>
+
+<ol>
+    <li>Download RubyGems <a href="https://rubygems.org/pages/download">here</a> </li>
+</ol>
+
+<h2>Linux install</h2>
+
+<ol>
+    <li>Create a folder to install your Gem files into. Never install it as a root user. Use: <p>
+            <code>$ mkdir gems</code>
+        </p>
+    </li>
+    <li>
+        add your variables to the bashrc file by typing these commands. NOTE: $ indicates a new line so press enter for
+        the previous command <p><code>$ echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc</code></p>
+        <p><code>$ echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc</code></p>
+        <p><code>$ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc</code></p>
+        <p><code>$ source ~/.bashrc/code</p>
+    </li>
+    <li>The last step is to install Jekyll: <p><code>$ gem install jekyll bundler</code></p>
+    </li>
+</ol>
+
+<h2>Windows install</h2>
+
+<ol>
+    <li>Press the windows key and type: <p><code>Command prompt</code></p>
+    </li>
+    <li>Select the Command Propt</li>
+    <li>In Command Prompt type: <p><code>bash</code></p>
+    </li>
+    <li>Now we need to update our repository lists and packages. Type: <p><code>$ sudo apt-get update -y && sudo apt-get upgrade -y
+    </code></p>
+    </li>
+    <li>Next we make sure RubyGems is up to date with: <p><code>$ gem update</code></p>
+    </li>
+    <li>Finally we install Jekyll: <p><code>$ gem install jekyll bundler</code></p>
+    </li>
+</ol>
