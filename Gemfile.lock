@@ -109,6 +109,10 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  jekyll-feed
+  jekyll-paginate
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-so-simple
 
 BUNDLED WITH
