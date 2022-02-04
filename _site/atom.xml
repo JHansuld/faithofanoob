@@ -1,4 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-02T19:57:25-06:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Faith of a Noob</title><subtitle>Training never ends.</subtitle><author><name>John Hansuld</name><email>jehansuld@gmail.com</email></author><entry><title type="html">100 Days of Code Challenge: Day Seven</title><link href="http://localhost:4000/100%20days%20of%20code/dayseven/" rel="alternate" type="text/html" title="100 Days of Code Challenge: Day Seven" /><published>2022-02-01T00:00:00-06:00</published><updated>2022-02-01T00:00:00-06:00</updated><id>http://localhost:4000/100%20days%20of%20code/dayseven</id><content type="html" xml:base="http://localhost:4000/100%20days%20of%20code/dayseven/"><![CDATA[<p>Today I focused on getting my blog finished. It took a while but I needed a slow day. Work canceled so I had the day
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-04T02:05:45-06:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Faith of a Noob</title><subtitle>Training never ends.</subtitle><author><name>John Hansuld</name><email>jehansuld@gmail.com</email></author><entry><title type="html">100 Days of Code Challenge: Day Nine</title><link href="http://localhost:4000/100%20days%20of%20code/daynine/" rel="alternate" type="text/html" title="100 Days of Code Challenge: Day Nine" /><published>2022-02-04T00:00:00-06:00</published><updated>2022-02-04T00:00:00-06:00</updated><id>http://localhost:4000/100%20days%20of%20code/daynine</id><content type="html" xml:base="http://localhost:4000/100%20days%20of%20code/daynine/"><![CDATA[<p>Today I worked on the Revisiting Rock Paper Scissors lesson on The Odin Project. It is a lot easier this time around,
+    though still tough. Not much new here. I did get into the code though. The main takeaway for today was from the
+    episode of <a href="https://learntocodewith.me/">Learn to Code with Me</a> that I listened to today. Season 1
+    Episode 9 with <a href="https://twitter.com/bexrefford">Becca Refford</a> where she discusses what it is like
+    learning without the aid of school. Now she did get a job shortly after leaving college, but she talks a lot about
+    taking as many of the projects that you can in order to get as much experience that you can.</p>
+
+<p>I have considered freelancing projects when I have enough knowledge to do so. My biggest issue here is not knowing
+    how much to charge. I have made a website for someone that I work with, but I used Wordpress and feel like it is not
+    that great. I may try to get some work from local businesses here in a few months, or maybe sooner.</p>
+
+<p>She mentions networking by volunteering your skills and I feel like this would be a great way to get my name out
+    there while learning. This may help with the lack of group work that comes with solo learning. I have to work this
+    weekend but I do plan on looking for local communities that I may be able to help with and contact them about
+    possible projects I could help with. I already found a meet up group on Facebook that is around where I want to live
+    and one of my goal locations for work. They focus on comming up with ideas on how to bring the community around into
+    the more technical era. I am excited for the first zoom call with them to find out more about what they are.</p>
+
+<p>This strategy is similar to the idea behind my blog. I may not know exactly how I can do it, and I may not be great
+    at it, but I will get it done and I will improve.</p>
+
+<p>Becca's biggest recommendation is to make a goal that is geared toward finishing a project instead of focusing so
+    much on following a linear approach to learning. I will still follow those linear steps on the programs I have but I
+    do need a goal. My first goal will be to find a volunteer project.</p>
+
+<p>I know that this was a short post and not very informative, but I have to cut this one short. I will go more indepth
+    with my goals and this new group when I figure more of it out. Hopefully within the next two days.</p>]]></content><author><name>John Hansuld</name><email>jehansuld@gmail.com</email></author><category term="100 days of code" /><category term="Journal" /><category term="Day 9" /><category term="Jekyll" /><category term="Encouragement" /><category term="Study Tips" /><category term="The Odin Project" /><category term="Udemy" /><category term="Learn to Code with Me" /><category term="Web Developer" /><category term="Wordpress" /><summary type="html"><![CDATA[My journey to code]]></summary></entry><entry><title type="html">100 Days of Code Challenge: Day Eight</title><link href="http://localhost:4000/100%20days%20of%20code/dayeight/" rel="alternate" type="text/html" title="100 Days of Code Challenge: Day Eight" /><published>2022-02-03T00:00:00-06:00</published><updated>2022-02-03T00:00:00-06:00</updated><id>http://localhost:4000/100%20days%20of%20code/dayeight</id><content type="html" xml:base="http://localhost:4000/100%20days%20of%20code/dayeight/"><![CDATA[<p>Today was a day of reflection but not by choice. I had to go into work early today so my study time before work was
+    cut short. This must be the bit in all the commercials I see mentioning that working adults need a flexible
+    schedule. I spent my freetime at work going over articles from <a href="https://theodinproject.com">The Odin
+        Project</a> that I had marked previously to reread. From my time working on The Odin Project, I can tell you
+    that it is rough at times. It mostly sends you off to read articles that others have written, articles that are of
+    immense help. Essentially, they have gathered the resources that someone who is new and learning is looking for, and
+    handed it to us. They do explain things briefly, and by no means are there no other resources that you can find out
+    there that are top-notch. </p>
+
+<p>Often times I would save articles into folders on my phone. I have a homepage on my Galaxy phone that is dedicated to
+    code and learning. It has two folders for The Odin Project pages I save. One is for pages that I find the most
+    helpful. Mostly ones that I want to have as recommendations for later, and another folder for pages that had
+    concepts that I found difficult and wanted to revisit after pushing forward a bit more.</p>
+
+<p>Self teaching coding seems to be one giant test. I feel like each step is a test
+    question that I need to get right in order to get a good grade, or in this case, a good job. I can change my answers
+    as much as I need to and in this test, I can even change the questions. Maybe it is normal for people learning to
+    make a landing page, but instead I make a blog page. The point to this is that during every test I ever took, in
+    school or in the military, they always say that if you do not know the answer right away that you should come back
+    to it at the end of the test.</p>
+
+<p>Having articles for the sections I find most difficult is helpful to me because sometimes learning the next step
+    fills in some of the blanks and helps me understand the next time that I read it. If I read it again and still do
+    not understand, then I use the link in the folder as a reminder to find even more sources to help me understand
+    until I do get it.</p>
+
+<h2>Where I am At</h2>
+
+<p>This probably should have been in the first post but I feel like I should post where I am learning and my progress
+    within those sources. This way it let's any of you reading know how far I am if you want to follow along with my
+    path or compare my progress with your own. I should probably mention that I am in no way affiliated with any of the
+    following links. If that changes, then I will let you know because I would definitly not turn down money to
+    recommend what I already think is a fantastic resource.</p>
+
+<h3>&#8226 <a href="https://theodinproject.com">The Odin Project</a></h3>
+
+<h4>- 85% through Foundations</h4>
+
+<p>Curruently in the foundations section of the course. I have just finished the DOM manipulation section and pegun the
+    Revisiting Rock Paper Scissors section. Once this is done I will have two projects, on more fundamentals lesson and
+    two back end intro sections before I choose a path. The DOM manipulation has proven to be the hardest thing for me
+    to understand. That is where I felt like I hit a wall. The blog has definitly helped me here but I need to find more
+    information on it.</p>
+
+<h3>&#8226 <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">Colt Steele's Web Developer Bootcamp
+        2022</a></h3>
+
+<h4>- Section 26 of 60</h4>
+
+<p>This is where I started. I really enjoy his videos on this course and I feel like he is talking to me more of a
+    student helping another student instead of a professor just spouting information. The course was very highly
+    recommended on Reddit. After I got to the Javascript section, I started The Odin Project. My strategy now is to use
+    this when I get stuck and then to continue where I left off on this course until I get through the spot
+    that has me stuck.</p>
+
+<p>I did pay for this course, it is not free. I did get the course on discount and only got it because I paid $14 for
+    it. It is worth what he charges but if you want it, you could start with The Odin Project until this goes on sale.
+</p>
+
+<h3>&#8226 <a href="https://www.freecodecamp.org/">freeCodeCamp</a></h3>
+
+<h4>- Responsive Web Design</h4>
+
+<p>I have finished all of the lessons in this section and have finished the Tribute Page project. Four more to go and I
+    can move to the next course. This was a fun and fairly easy section. I will probably finish these projects within
+    the next week or two. The project I did was a good starting point, and for an automated grading system it does a
+    great job. I tried to make the page look good, but that is not a requirement for the program to pass you. </p>
+
+<p>I heard about this one from the podcast Learn to Code with Me. They mention it a lot. It is good, and I do recommend
+    it, but I feel like it is just a supplimental resource and not a good stand alone resource.</p>
+
+<h3>&#8226 <a href="https://reddit.com">Reddit</a></h3>
+
+<p>I know this seems obvious but this has been one of the best resources for me when I didn't know where to start and
+    anytime I got stuck. I know there are other websites like Stack overflow but I used that site maybe twice. The one
+    time I remember using it to find something, the answer was in the comments and it felt like I didn't really learn
+    anything. Maybe that is not the norm there, but on Reddit, I usually find a link to an article that helps me
+    understand where I went wrong. There are numerous subreddits that I have used here, but I usually search the whole
+    site for my issue and pick the closest matching post title. I will make a post about resources later with specific
+    subreddits in it.</p>
+
+<h3>&#8226 <a href="https://developer.mozilla.org/en-US/docs/Web">Mozilla Developer Network</a></h3>
+
+<p>My favorite resource for documentation. W3Schools has good info as well, but I prefer the asthetics of this site.
+    Otherwise the info seems the same. I know it is a weird reason to choose which one to prefer, but I am an unusual
+    guy.</p>
+
+<h3>&#8226 <a href="https://learntocodewith.me/podcast/"></a>Learn to Code with Me</h3>
+
+<p>This podcast keeps me focused on my journey while giving me a break from all of the coding and technical bits. There
+    is mostly advice on how to use your time to generate leads for freelancing or for job recommendations but they also
+    mention resources for learning. My main takeaway here is that it is motivational for me to hear the success stories.
+</p>
+
+<h2>Key takeaways:</h2>
+
+<ul>
+    <li>When you get stuck on a concept, write it down or save a link to it and come back to it later</li>
+    <li>You can rewrite the questions, make projects that are not on typical lists for newbies</li>
+    <li>If a program does not work for you, find one that does and save the old one to supplement difficult ideas</li>
+    <li>Just because a resource is considered the "best" does not mean it is the only resource</li>
+</ul>]]></content><author><name>John Hansuld</name><email>jehansuld@gmail.com</email></author><category term="100 days of code" /><category term="Journal" /><category term="Day 8" /><category term="HTML" /><category term="CSS" /><category term="Encouragement" /><category term="Study Tips" /><category term="The Odin Project" /><category term="Udemy" /><category term="Learn to Code with Me" /><category term="Web Developer" /><category term="Reddit" /><category term="MDN" /><category term="freeCodeCamp" /><summary type="html"><![CDATA[My journey to code]]></summary></entry><entry><title type="html">100 Days of Code Challenge: Day Seven</title><link href="http://localhost:4000/100%20days%20of%20code/dayseven/" rel="alternate" type="text/html" title="100 Days of Code Challenge: Day Seven" /><published>2022-02-01T00:00:00-06:00</published><updated>2022-02-01T00:00:00-06:00</updated><id>http://localhost:4000/100%20days%20of%20code/dayseven</id><content type="html" xml:base="http://localhost:4000/100%20days%20of%20code/dayseven/"><![CDATA[<p>Today I focused on getting my blog finished. It took a while but I needed a slow day. Work canceled so I had the day
     off and used it to relax and get back in the right headspace. <a href="/images/alphonse1.jpeg">Alphonse</a> was a
     huge fan of this idea and extremely supportive. I found a tech podcast a while back that I enjoy called <a
         href="https://learntocodewith.me/podcast/">Learn to Code with Me</a> by Laurence Bradford. I have been listening

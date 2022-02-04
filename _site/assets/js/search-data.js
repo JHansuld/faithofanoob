@@ -28,4 +28,14 @@ var store = [{
         "excerpt":"This is my guide on how to install Jekyll to use with Github Pages. I am going to go over how to do this in linux command line with links to the download files as well. All info can be found at jekyllrb.com. First we have to install some prerequsites....","categories": ["Jekyll"],
         "tags": ["Github","Jekyll","Hosting","Guide","Blogging","Ruby","RubyGems"],
         "url": "http://localhost:4000/jekyll/installingjekyll/"
+      },{
+        "title": "100 Days of Code Challenge: Day Eight",
+        "excerpt":"Today was a day of reflection but not by choice. I had to go into work early today so my study time before work was cut short. This must be the bit in all the commercials I see mentioning that working adults need a flexible schedule. I spent my freetime...","categories": ["100 days of code"],
+        "tags": ["Journal","Day 8","HTML","CSS","Encouragement","Study Tips","The Odin Project","Udemy","Learn to Code with Me","Web Developer","Reddit","MDN","freeCodeCamp"],
+        "url": "http://localhost:4000/100%20days%20of%20code/dayeight/"
+      },{
+        "title": "100 Days of Code Challenge: Day Nine",
+        "excerpt":"Today I worked on the Revisiting Rock Paper Scissors lesson on The Odin Project. It is a lot easier this time around, though still tough. Not much new here. I did get into the code though. The main takeaway for today was from the episode of Learn to Code with...","categories": ["100 days of code"],
+        "tags": ["Journal","Day 9","Jekyll","Encouragement","Study Tips","The Odin Project","Udemy","Learn to Code with Me","Web Developer","Wordpress"],
+        "url": "http://localhost:4000/100%20days%20of%20code/daynine/"
       }]
